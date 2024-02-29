@@ -1,3 +1,8 @@
+I made a minimalist to-do app
+It has features like add to-do, edit to-do, delete to-do, and profiles
+You can edit the to-do by simply pressing it and the showModalBottomSheet will pop up
+
+
 During the process of making the to-do app, I’ve learned numerous things. They’re vary from the very basics of flutter, to a little bit more advanced. There were things like Scaffold, setState, and a slight touch of firebase.
 
 First thing first, there is Scaffold. This is the most basic thing that I repeatedly forgot to use. I have done several projects and always wondering why is my app looks so off, turned out I didn’t implement Scaffold in the first place.
